@@ -5,3 +5,9 @@ hash.rb
 map.rb
 select_array.rb
 select_hash.rb
+class.rb
+inheritance.rb
+polymorphic.rb
+method.rb
+os.rb
+return_method.rb
